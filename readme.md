@@ -1,4 +1,4 @@
-Babylon.js
+практика группы ПКс-31 в Babylon.js
 ==========
 
 Getting started? Play directly with the Babylon.js API via our [playground](http://www.babylonjs.com/playground). It contains also lot of simple samples to learn how to use it. 
